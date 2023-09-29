@@ -1,0 +1,5 @@
+springdoc:
+  swagger-ui:
+    use-root-path: true
+server:
+  port: 8080
